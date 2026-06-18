@@ -9,9 +9,15 @@
 <body>
     <h1> my bookmarks to open my all profiles id </h1>
     <h2> some importants book marks</h2>
-    <a href="https://leetcode.com/u/anikesh_28/" > open LeetCode Profile</a>
-    <a href="https://www.geeksforgeeks.org/profile/anikeshmiw1ka?tab=activity" > open GeeksforGeeks Profile</a>
-    <a href="https://github.com/anik67g" > open github profile</a>
-
+    <p>
+        Leetcode profile: <a target="_blank" href="https://leetcode.com/u/anikesh_28/" > open LeetCode Profile</a>
+    </p>
+    <p>
+        GeeksforGeeks profile: <a target="_blank" href="https://www.geeksforgeeks.org/profile/anikeshmiw1ka?tab=activity" > open GeeksforGeeks Profile</a>
+    </p>
+    <p>
+        GitHub profile: <a target="_blank" href="https://github.com/anik67g" > open GitHub Profile</a>
+    </p>
+<h2> These are my some book marks just for testing..</h2>
 </body>
 </html>
